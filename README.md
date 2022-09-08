@@ -28,7 +28,7 @@ To take another step towards challenges, we have also introduced prediction rate
 
 ## Peek : 
 ### Overview
-![](https://github.com/dakshtrehan/Interactive-Covid-19-Dashboard/blob/main/Images/Covid%20Homepage.png)
+![](https://github.com/syedammaji2822/Interactive-Covid-19-Dashboard/blob/main/Images/Covid%20Homepage.png)
 ### Country-wise stats interactive representation
 ![](https://github.com/dakshtrehan/Interactive-Covid-19-Dashboard/blob/main/Images/India%20visual%20cases.png)
 ### Country-wise Graphical stats 
